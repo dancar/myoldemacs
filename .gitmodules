@@ -1,0 +1,49 @@
+[submodule "plugins/expand-region"]
+	path = plugins/expand-region
+	url = https://github.com/magnars/expand-region.el.git
+[submodule "plugins/git-emacs"]
+	path = plugins/git-emacs
+	url = https://github.com/tsgates/git-emacs.git
+[submodule "plugins/js2-refactor"]
+	path = plugins/js2-refactor
+	url = https://github.com/magnars/js2-refactor.el.git
+[submodule "plugins/magit"]
+	path = plugins/magit
+	url = https://github.com/magit/magit.git
+[submodule "plugins/mark-multiple"]
+	path = plugins/mark-multiple
+	url = https://github.com/magnars/mark-multiple.el.git
+[submodule "plugins/multiple-cursors"]
+	path = plugins/multiple-cursors
+	url = https://github.com/magnars/multiple-cursors.el.git
+[submodule "plugins/yaml-mode"]
+	path = plugins/yaml-mode
+	url = https://github.com/yoshiki/yaml-mode.git
+[submodule "plugins/maxframe"]
+	path = plugins/maxframe
+	url = https://github.com/rmm5t/maxframe.el.git
+[submodule "plugins/json-mode"]
+	path = plugins/json-mode
+	url = https://github.com/joshwnj/json-mode.git
+[submodule "plugins/js2-mode"]
+	path = plugins/js2-mode
+	url = https://github.com/mooz/js2-mode.git
+[submodule "plugins/helm"]
+	path = plugins/helm
+	url = https://github.com/emacs-helm/helm.git
+[submodule "plugins/sass-mode"]
+	path = plugins/sass-mode
+	url = https://github.com/nex3/sass-mode.git
+[submodule "plugins/auto-complete"]
+        path = plugins/auto-complete
+        url = https://github.com/auto-complete/auto-complete.git
+[submodule "plugins/scss-mode"]
+	path = plugins/scss-mode
+	url = https://github.com/antonj/scss-mode.git
+[submodule "plugins/exec-path-from-shell"]
+	path = plugins/exec-path-from-shell
+	url = https://github.com/purcell/exec-path-from-shell.git
+
+[submodule "plugins/lua-mode"]
+	path = plugins/lua-mode
+	url = https://github.com/immerrr/lua-mode.git
