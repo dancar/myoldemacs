@@ -47,3 +47,6 @@
 [submodule "plugins/lua-mode"]
 	path = plugins/lua-mode
 	url = https://github.com/immerrr/lua-mode.git
+[submodule "plugins/ido-f3"]
+	path = plugins/ido-f3
+	url = git@github.com:dancar/ido-f3

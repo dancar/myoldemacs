@@ -25,7 +25,7 @@
          (add-to-list 'plugin-error-list plugin))
          (message (format "Error loading plugin \"%s\"." plugin-name))
       ))))
-
+(load-plugin 'ido-f3)
 (load-plugin 'scss-mode)
 (load-plugin 'json-mode)
 (load-plugin 'git-emacs)

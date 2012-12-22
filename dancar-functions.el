@@ -1,5 +1,3 @@
-(require 'dancar-f3)
-
 (defun comment-line-toggle ()
   "Toggle current line or region's commenting
   (c) dancar"
